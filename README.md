@@ -18,28 +18,23 @@ The goal was to transform raw transactional data into **actionable insights** th
 
 ---
 
-## 📷 Dashboard Screenshots
-
-### 🔹 Overview Dashboard
-
-![Overview](ScreenShots/)
+### 🔹 Overview
+![Overview](ScreenShots/WhatsApp%20Image%202026-05-03%20at%204.10.57%20PM.jpeg)
 
 ---
+
 ### 🔹 Dashboard
-
-![Overview](images/overview.png)
-
----
-
-### 🔹 User Performance Dashboard
-
-![User Performance](images/user_performance.png)
+![Dashboard](ScreenShots/WhatsApp%20Image%202026-05-03%20at%204.11.13%20PM.jpeg)
 
 ---
 
-### 🔹 City Performance Dashboard
+### 🔹 User Performance
+![User Performance](ScreenShots/WhatsApp%20Image%202026-05-03%20at%204.11.28%20PM.jpeg)
 
-![City Performance](images/city_performance.png)
+---
+
+### 🔹 City Performance
+![City Performance](ScreenShots/WhatsApp%20Image%202026-05-03%20at%204.12.00%20PM.jpeg)
 
 ---
 
